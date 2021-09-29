@@ -1,2 +1,2 @@
-*/Covid19-dataset
-*.gitignore
+Covid19-dataset/*
+.gitignore
